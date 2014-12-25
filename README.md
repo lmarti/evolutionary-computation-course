@@ -1,7 +1,7 @@
 evolutionary-computation-course
 ===============================
 
-This repository contains the IPython notebooks that are used in the demonstrations classes of the course [_Advanced Evolutionary Computation: Theory and Practice_](http://lmarti.com/aec-2014) taught as part of the PhD in Electrical Engineering, [Department of Electrical Engineering](http://www.ele.puc-rio.br/) of the [Pontifícia Universidade Católica do Rio de Janeiro](http://www.puc-rio.br/). 
+This repository contains the IPython notebooks that are used in the demonstrations classes of the course [_Advanced Evolutionary Computation: Theory and Practice_](http://lmarti.com/aec-2014) taught as part of the PhD in Electrical Engineering, [Department of Electrical Engineering](http://www.ele.puc-rio.br/) of the [Pontifícia Universidade Católica do Rio de Janeiro](http://www.puc-rio.br/).
 
 ## Current notebooks
 

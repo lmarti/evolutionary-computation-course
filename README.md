@@ -1,8 +1,8 @@
 # Evolutionary Computation with IPython
-## IPython notebooks about genetic and evolutionary computation
+IPython notebooks about genetic and evolutionary computation
 
-# Luis Martí, [DEE](http://www.ele.puc-rio.br/), [PUC-Rio](http://www.puc-rio.br/)
-## http://lmarti.com
+Luis Martí, [DEE](http://www.ele.puc-rio.br/), [PUC-Rio](http://www.puc-rio.br/)
+http://lmarti.com
 
 This repository contains the IPython notebooks that are used in the demonstrations classes of my course [_"Advanced Evolutionary Computation: Theory and Practice"_](http://lmarti.com/aec-2014), which is taught as part of the PhD in Electrical Engineering, [Department of Electrical Engineering](http://www.ele.puc-rio.br/) of the [Pontifícia Universidade Católica do Rio de Janeiro](http://www.puc-rio.br/).
 

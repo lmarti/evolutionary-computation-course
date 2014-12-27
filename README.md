@@ -21,11 +21,11 @@ Notebooks are meant to be viewed as slides. That is why they contain relatively 
 ### Online viewing
 
 Notebooks converted to static html slides:
-* [AEC.01 - A Fast (and Furious) Introduction to Python](./AEC.01%20-%20A%20Fast%20(and%20Furious)%20Introduction%20to%20Python.slides.html)
-* [AEC.02 - Elements of Evolutionary Algorithms](./AEC.02 - Elements of Evolutionary Algorithms.slides.html)
-* [AEC.03 - Solving the TSP with GAs](./AEC.03 - Solving the TSP with GAs.slides.html)
-* [AEC.04 - Evolutionary Strategies and Covariance Matrix Adaptation](./AEC.04 - Evolutionary Strategies and Covariance Matrix Adaptation.slides.html)
-* [AEC.06 - Evolutionary Multi-Objective Optimization](./AEC.06 - Evolutionary Multi-Objective Optimization.slides.html)
+* [AEC.01 - A Fast (and Furious) Introduction to Python](http://lmarti.github.io/evolutionary-computation-course/AEC.01%20-%20A%20Fast%20(and%20Furious)%20Introduction%20to%20Python.slides.html)
+* [AEC.02 - Elements of Evolutionary Algorithms](http://lmarti.github.io/evolutionary-computation-course/AEC.02 - Elements of Evolutionary Algorithms.slides.html)
+* [AEC.03 - Solving the TSP with GAs](http://lmarti.github.io/evolutionary-computation-course/AEC.03 - Solving the TSP with GAs.slides.html)
+* [AEC.04 - Evolutionary Strategies and Covariance Matrix Adaptation](http://lmarti.github.io/evolutionary-computation-course/AEC.04 - Evolutionary Strategies and Covariance Matrix Adaptation.slides.html)
+* [AEC.06 - Evolutionary Multi-Objective Optimization](http://lmarti.github.io/evolutionary-computation-course/AEC.06 - Evolutionary Multi-Objective Optimization.slides.html)
 
 Another option is to use the [IPython notebook slide viewer](http://slideviewer.herokuapp.com/) (a slides equivalent of [nbviwer.ipython.org](http://nbviwer.ipython.org)). However, bear in mind that this is a development version and some slides of the notebook might not be properly rendered.
 

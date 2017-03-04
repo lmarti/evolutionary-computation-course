@@ -1,17 +1,7 @@
-<div align='left' style="width:400px;height:120px;overflow:hidden;">
-<a href='http://www.uff.br'>
-<img align='left' style='display: block;height: 92%' src='https://github.com/lmarti/jupyter_custom/raw/master/imgs/uff.png' alt='UFF logo' title='UFF logo'/>
-</a>
-<a href='http://www.ic.uff.br'>
-<img align='left' style='display: block;height: 100%' src='https://github.com/lmarti/jupyter_custom/raw/master/imgs/logo-ic.png' alt='IC logo' title='IC logo'/>
-</a>
-</div>
-
 # [Evolutionary Computation with IPython](http://lmarti.github.io/evolutionary-computation-course/)
 ## Jupyter/IPython notebooks about genetic and evolutionary computation.
 
-Luis Martí, [IC](http://www.ic.uff.br/)/[UFF](http://www.uff.br/)
-http://lmarti.com
+Luis Martí -- http://lmarti.com
 
 This repository contains the Jupyter/IPython notebooks that were used in the demonstrations classes of my course [_"Advanced Evolutionary Computation: Theory and Practice"_](http://lmarti.com/aec-2014), which was taught as part of the PhD in Electrical Engineering, [Department of Electrical Engineering](http://www.ele.puc-rio.br/) of the [Pontifícia Universidade Católica do Rio de Janeiro](http://www.puc-rio.br/).
 

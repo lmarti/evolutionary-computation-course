@@ -30,14 +30,14 @@ Notebooks converted to static html slides:
 * [AEC.04 - Evolutionary Strategies and Covariance Matrix Adaptation](http://lmarti.github.io/evolutionary-computation-course/AEC.04 - Evolutionary Strategies and Covariance Matrix Adaptation.slides.html)
 * [AEC.06 - Evolutionary Multi-Objective Optimization](http://lmarti.github.io/evolutionary-computation-course/AEC.06 - Evolutionary Multi-Objective Optimization.slides.html)
 
-Another option is to use the [IPython notebook slide viewer](http://slideviewer.herokuapp.com/) (a slides equivalent of [nbviwer.ipython.org](http://nbviwer.ipython.org)). However, bear in mind that this is a development version and some slides of the notebook might not be properly rendered.
+Another option is to use [nbviwer.jupyter.org](http://nbviwer.jupyter.org)).
 
 ### Offline (local) slides
 
 * You can convert them to slides and view them locally by using `nbconvert` with a command like:
 
 ```
-$ ipython nbconvert --to slides --post serve <a-notebook-name.ipynb>
+$ jupyter nbconvert --to slides --post serve <a-notebook-name.ipynb>
 ```
 
 * Another -very cool- option is to install [Reveal.js - Jupyter/IPython Slideshow Extension](https://github.com/damianavila/live_reveal) for a (very cool) live view where you can actually execute the notebook in slide mode. This is the one I use in class.

@@ -1,0 +1,3 @@
+[submodule "jupyter_custom"]
+	path = jupyter_custom
+	url = https://github.com/lmarti/jupyter_custom.git

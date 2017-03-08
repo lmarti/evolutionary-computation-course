@@ -3,7 +3,7 @@
 
 Luis Martí -- http://lmarti.com
 
-This repository contains the Jupyter/IPython notebooks that were used in the demonstrations classes of my course ["Advanced Evolutionary Computation: Theory and Practice"](http://lmarti.com/aec-2014), which was taught as part of the PhD in Electrical Engineering, [Department of Electrical Engineering](http://www.ele.puc-rio.br/) of the [Pontifícia Universidade Católica do Rio de Janeiro](http://www.puc-rio.br/).
+This repository contains the Jupyter/IPython notebooks that were used in the demonstration classes of my course ["Advanced Evolutionary Computation: Theory and Practice"](http://lmarti.com/aec-2014), which was taught as part of the PhD in Electrical Engineering, [Department of Electrical Engineering](http://www.ele.puc-rio.br/) of the [Pontifícia Universidade Católica do Rio de Janeiro](http://www.puc-rio.br/).
 
 **Note:** Although I am not currently giving this course I am updating the notebooks from time to time.
 

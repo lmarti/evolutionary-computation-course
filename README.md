@@ -1,5 +1,5 @@
 # [Evolutionary Computation with Jupyter/IPython](http://lmarti.github.io/evolutionary-computation-course/)
-## Jupyter/IPython notebooks about genetic and evolutionary computation.
+* Jupyter/IPython notebooks about genetic and evolutionary computation *
 
 Luis Martí -- http://lmarti.com
 

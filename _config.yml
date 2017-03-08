@@ -1,0 +1,8 @@
+title: Evolutionary Computation with IPython
+description: IPython notebooks about genetic and evolutionary computation.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
